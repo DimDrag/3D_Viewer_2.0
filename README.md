@@ -31,5 +31,8 @@ A few words about the project:
 
 ## Installation
 
-1. Clone this repo `git clone git@github.com:DimDrag/3D_Viewer_2.0.git`
-2. Make the installation script executable and run `sudo chmod +x install.sh && sudo install.sh`
+1. Clone this repo 
+   `git clone git@github.com:DimDrag/3D_Viewer_2.0.git`
+
+2. Make the installation script executable and run
+   `sudo chmod +x install.sh && sudo ./install.sh`
